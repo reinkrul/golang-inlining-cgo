@@ -1,5 +1,5 @@
 Run:
-```
+```bash
 go build main.go
 nm main | grep Example
 ```
